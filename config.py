@@ -16,7 +16,7 @@ SUPPORT_GROUP = -1001374176745
 
 NYX = 703453307
 ADMINS = (NYX,
-          806473770,  # BlueBettle
+          806473770,  # BlueBeetle
           984010225  # Phoenix
           )
 VERIFIED_USERS = set(ADMINS + (
